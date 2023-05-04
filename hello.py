@@ -6,19 +6,25 @@ st.set_page_config(
     page_icon="🧊",
     layout="centered",
     initial_sidebar_state="expanded",
-    menu_items={
-        'Get Help': 'https://www.extremelycoolapp.com/help',
-        'Report a bug': "https://www.extremelycoolapp.com/bug",
-        'About': "# This is a header. This is an *extremely* cool app!"
-    }
 )
 
 def intro():
-    st.write("# Deep Learning-Enabled Raman Spectroscopic Identification of Extracellular Vesicles 👋")
-    st.sidebar.success("Click **step 1** to start")
+    
+    st.write("## Deep Learning-Enabled Raman Spectroscopic Identification of Extracellular Vesicles")
+    st.sidebar.header('Introduction')
+    st.sidebar.markdown(
+    """
+    This page is the introduction of this app.  
+    You can click the button **Start** above to try our demo.
+    """
+    )
+    st.sidebar.success("Click **Start** to try! 👋")
+
     st.subheader("introduction")
     toc = Image.open('toc.webp')
-    st.image(toc, use_column_width=True,caption='TOC')
+    _,col,_,_,_ = st.columns(5)
+    with col:
+        st.image(toc, use_column_width=False,caption='TOC', width=440)
     st.markdown(
         """
         Pathogenic bacterial infections, exacerbated by increasing antimicrobial resistance, pose a major threat to human 
@@ -38,14 +44,15 @@ def intro():
     st.subheader("Tutorial")
     st.markdown(
         """
-        1. Upload your Raman spectrum in the ***step 1 process*** in the sidebar.
-        2. Preprocess and click the "Submit" button.
-        3. The result will be displayed in the ***step 2 prediction*** page.
+        1. Click the button **Start** in the sidebar to try our demo.
+        2. Upload your Raman spectrum or use the demo data we prepared.
+        3. Process and click the **Submit** button.
+        4. Wait for the results.
         """)
     st.subheader("Citation")
     st.markdown(
         """
-        here is [paper](https://pubs.acs.org/doi/10.1021/acs.analchem.2c02226) and [codes](https://10.26.15.61/xinyulu/EVs-Classification)  
+        here is [paper](https://pubs.acs.org/doi/10.1021/acs.analchem.2c02226) and [codes](https://huggingface.co/spaces/xinyulu/EVsID)  
         _____________________________________________________________
 
         if you find this app useful, please cite our paper:

@@ -1,10 +1,13 @@
 import streamlit as st
-# import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+
+import matplotlib.pyplot as plt
+from brokenaxes import brokenaxes
+
 from scipy.signal import savgol_filter as sg
 from BaselineRemoval import BaselineRemoval as br
-
+from analysis import test
 
 def minmax(x):
     return (x - x.min()) / (x.max() - x.min())
@@ -54,8 +57,11 @@ def smooth_module(spec_df):
         skip_smooth = st.checkbox('Skip', key='smooth')
 
     if not skip_smooth:
-        window_size = st.slider('smooth window size', 3, 13, 7)
-        order = st.slider('smooth order', 1, 5, 3)
+        col1, col2 = st.columns(2)
+        with col1:
+            window_size = st.slider('smooth window size', 3, 13, 7)
+        with col2:
+            order = st.slider('smooth order', 1, 5, 3)
         if order >= window_size:
             st.error('order must be less than window size')
             st.stop()
@@ -72,8 +78,11 @@ def baseline_module(spec_df):
     with col2:
         skip_baseline = st.checkbox('Skip', key='skip_baseline')
     if not skip_baseline:
-        lambda_ = st.slider('lambda_', 1, 500, 100)
-        order_ = st.slider('order_', 1, 4, 2)
+        col1, col2 = st.columns(2)
+        with col1:
+            lambda_ = st.slider('lambda', 1, 40, 15)
+        with col2:
+            order_ = st.slider('order', 1, 4, 2)
         if order_ >= lambda_:
             st.error('order must be less than lambda')
             st.stop()
@@ -81,6 +90,21 @@ def baseline_module(spec_df):
         
     return spec_df 
 
+
+def plot_module(spec_df):
+    fig = plt.figure(figsize=(10, 5))
+    ax = brokenaxes(xlims=((800, 1799), (2700, 3200)), wspace=0.05)
+
+    # Plot the data
+    ax.plot(spec_df['wavenumber'], spec_df['intensity'], label='Raw')
+    ax.plot(spec_df['wavenumber'], spec_df['processed'], label='Processed')
+
+    # Set the axis labels
+    ax.set_xlabel('Raman Shift ($cm^{-1}$)', labelpad=20)
+    ax.set_ylabel('Intensity (a.u.)')
+
+    # Show the plot
+    st.pyplot(fig)
 
 def normalize_module(spec_df):
     # cut out spectrum with 800-1800 cm-1
@@ -119,13 +143,13 @@ def run():
         
         spec = smooth_module(raw_spec)
         spec = baseline_module(spec)
-        st.line_chart(data=spec, x='wavenumber')
+        plot_module(spec)
 
         if st.button('Submit'):
-            st.write('Your result is recorded in page 2: prediction')
             spec = normalize_module(spec)
             st.session_state['input_spec'] = spec
-            st.sidebar.success('Click step 2 to get the prediction')
+            test()
+
 
 if __name__ == '__main__':
     run()

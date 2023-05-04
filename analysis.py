@@ -3,6 +3,7 @@ import streamlit as st
 import json 
 import numpy as np
 import pandas as pd
+import altair as alt
 
 import torch 
 from ANN import ANN
@@ -40,8 +41,12 @@ def prediction():
             outputs = torch.softmax(outputs, dim=-1)
             prob, pred = torch.max(outputs, dim=1)
 
+            outputs = outputs.numpy()
             prob = prob.numpy()
             pred = pred.numpy()
+
+    res = pd.DataFrame({'label':st.session_state['class_indict'].values(), 'confidence':outputs.flatten()*100})
+    st.bar_chart(data=res, x='label')
     pred_label = st.session_state['class_indict'][f'{int(pred)}']
     st.markdown(f'the spectrum you input is ***{pred_label}*** with confidence ***{prob[0]*100:.2f}%***')
     return pred_label
@@ -67,7 +72,28 @@ def analysis(pred_label):
     attr = scale(attr[:, :, :189])
 
     df = pd.DataFrame({'wavenumber': wave[:189], 'intensity': intensity, 'attribution': -attr})
-    st.line_chart(data=df, x='wavenumber')
+
+    # Create the line chart
+    line_chart = alt.Chart(df).mark_line().encode(
+        x=alt.X('wavenumber:Q'),
+        y=alt.Y('intensity:Q')
+    )
+
+    # Create the bar chart
+    bar_chart = alt.Chart(df).mark_bar(color='orange').encode(
+        x=alt.X('wavenumber:Q'),
+        y=alt.Y('attribution:Q'),
+        tooltip=[alt.Tooltip('wavenumber:Q'), alt.Tooltip('attribution:Q')]
+    )
+
+    # Combine the two charts into one figure
+    chart = line_chart + bar_chart
+
+    # Add the zoom selection tool
+    chart = chart.add_selection(
+        alt.selection_interval(bind='scales', encodings=['x'])
+    )
+    st.altair_chart(chart, use_container_width=True)
 
     from config import contribution
 
@@ -78,13 +104,19 @@ def analysis(pred_label):
     target_contribution = sorted(bands.items(), key=lambda x: abs(x[0]-target_band))[0]
     st.markdown('This band is mainly contributed by ***%s***' %(target_contribution[1]))
     
-def run():
+def test():
     pred_label = prediction()
     analysis(pred_label)
-
+    st.markdown(
+        """
+        ---  
+        This APP is still inder development.
+        If you have any questions, please click [here](mailto:luxinyu@stu.xmu.edu.cn) to contact me :smile:
+        """
+    )
 if __name__ == '__main__':
         
     if 'input_spec' in st.session_state:
-        run()
+        test()
     else:
         st.warning('Please upload and submit a spectrum first')
