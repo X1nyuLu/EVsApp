@@ -103,7 +103,7 @@ def prediction():
     st.altair_chart(chart, use_container_width=True)
 
     target_bands = wave[np.argsort(attr)[-5:]]
-    st.markdown('**The most important 5** Raman bands and assignments are shown below：')
+    st.markdown('**The most important 5** Raman bands and assignments are shown below:')
     
     target_attribution = get_band_attr(target_bands)
 
