@@ -41,10 +41,12 @@ def load_data(upload_file):
 
 
 def upload_module(upload_file):
-    if upload_file.name[-3:] != 'txt':
-        st.error('Please upload a txt file')
-    spec = load_data(upload_file)
-    return spec 
+    try:
+        spec = load_data(upload_file)
+    except:
+        st.error('Please upload a txt file, upload error')
+    else:
+        return spec 
 
 
 def smooth_module(spec_df):
@@ -102,7 +104,7 @@ def plot_module(spec_df):
     # Set the axis labels
     ax.set_xlabel('Raman Shift ($cm^{-1}$)', labelpad=20)
     ax.set_ylabel('Intensity (a.u.)')
-
+    ax.legend(loc='upper left',frameon=False)
     # Show the plot
     st.pyplot(fig)
 

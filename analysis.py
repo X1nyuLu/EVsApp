@@ -110,7 +110,7 @@ def test():
     st.markdown(
         """
         ---  
-        This APP is still inder development.
+        This APP is still under development.
         If you have any questions, please click [here](mailto:luxinyu@stu.xmu.edu.cn) to contact me :smile:
         """
     )

@@ -18,7 +18,7 @@ def intro():
     You can click the button **Start** above to try our demo.
     """
     )
-    st.sidebar.success("Click **Start** to try! 👋")
+    st.sidebar.info("Click **Start** to try! 👋")
 
     st.subheader("introduction")
     toc = Image.open('toc.webp')
