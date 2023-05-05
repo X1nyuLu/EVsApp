@@ -1,0 +1,896 @@
+peak,assignment
+415,Phosphatidylinositol
+418,Cholesterol
+428,"Symmetric stretching vibration of $v_2 PO_4^{3-}$
+phosphate of HA"
+429,"Cholesterol, cholesterol ester"
+445,"N-C-S stretch (one of three thiocyanate peaks, with 2095 & 735 cm)"
+447,Ring torsion of phenyl(2)
+454,Ring torsion of phenyl(2)
+477,"Polysaccharides, amylose
+Polysaccharides, amylopectin"
+481,DNA
+484,Glycogen
+490,Glycogen
+505,C-OH3 torsion of methoxy group(1)
+508,C-OH3 torsion of methoxy group(1)
+509,"S-S disulfide stretching band of collagen
+v(S-S) gauche-gauche-gauche (aminoacid cysteine)"
+519,Phosphatidylinositol
+524,"S-S disulfide stretching in proteins
+Phosphatidylserine
+v(S-S) gauche-gauche-trans (aminoacid cysteine)"
+538,Cholesterol ester
+540,v(S-S) trans-gauche-trans (aminoacid cysteine)
+548,Cholesterol
+540,Glucose-saccharide band (overlaps with acyl band)
+573,"Tryptophan/cytosine, guanine"
+576,Phosphatidylinositol
+583,OH out of plane bending (free)
+586,OH out of plane bending (free)
+589,"Symmetric stretching vibration of $v_4 PO_4^{3-}$
+Glycerol
+phosphate of HA"
+596,Phosphatidylinositol
+607,Glycerol
+608,Cholesterol
+614,Cholesterol ester
+618,C-C twisting (protein)
+620,C-C twist aromatic ring (one of C-C vibrations to be expected in aromatic structure of xylene)
+621,C-C twisting mode of phenylalanine (proteins)
+630,Glycerol
+640,C-S stretching & C-C twisting of proteinstyrosine
+643,C-C twisting mode of tyrosine
+645,C-C twisting mode of phenylalanine (proteins)
+646,C-C twisting mode of tyrosine
+662,C-S stretching mode of cystine (collagen type I)
+666,"G, T (ring breathing modes in the DNA bases)tyrosine-G backbone in RNA"
+667,"C-S stretching mode of cystine (collagen type I)
+T, G (DNA/RNA)"
+669,C-S stretching mode of cytosine
+669,"v_7(δ: porphyrin deformation), observed in the spectra of single human RBC"
+678,"Ring breathing modes in the DNA bases
+G (ring breathing modes in the DNA bases)/C-2’-endo-anti"
+702,"Cholesterol, cholesterol ester"
+717,"C-N (membrane phospholipids head)/adenine
+$CN^{-}(CH_3)_3$ (lipids)
+Choline group"
+718,C-N (membrane phospholipid head)/nucleotide peak
+719,"Symmetric stretch vibration of choline group N^{+}(CH_3)_3, characteristic for phospholipids
+Phosphatidylcholine, sphengomyelin
+C-C-N+ symmetric stretching in phosphatidylcholine (lipid assignment)"
+720,DNA
+722,DNA
+725,A (ring breathing mode of DNA/RNA bases)
+726,"C-S (protein), CH2 rocking, adenine"
+727,"C-C stretching, proline (collagen assignment)"
+729,A
+733,Phosphatidylserine
+735,"C-S stretch (one of three thiocyanate peaks, with 2095 & 445 cm)"
+746,T (ring breathing mode of DNA/RNA bases)
+748,DNA
+749,Symmetric breathing of tryptophan (protein assignment)
+750,"CH2,6 out-of-plane bending, observed in the spectra of single human RBC
+Lactic acid"
+752,"v_{15} (Porphyrin breathing mode, the most informative about the status of RBC & a direct measure of the heme groups of the hemoglobins)
+DNA"
+752,Symmetric breathing of tryptophan (protein assignment)
+755,Symmetric breathing of tryptophan
+759,"Tryptophan
+Ethanolamine group
+Phosphatidylethanolamine"
+760,"Tryptophan, δ(ring)
+Ring breathing tryptophan (proteins)"
+766,Pyrimidine ring breathing mode
+776,Phosphatidylinositol
+780,Uracil based ring breathing mode
+781,Cytosine/uracil ring breathing (nucleotide)
+782,"DNA
+Thymine, cytosine, uracil
+RNA
+U, T, C (ring breathing modes in the DNA/RNA bases)"
+784,Phosphodiester; cytosine
+785,"U, T, C (ring breathing modes in the DNA/RNA bases)
+Backbone O-P-O"
+786,"DNA: O-P-O, cytosine, uracil, thymine
+Pyrimidine ring breathing mode"
+787,"Can be taken as a measure for the relative quantity of nucleic acids present
+Phosphatidylserine"
+788,"$C'_5 -O-P-O-C'_3$ phosphodiester bands in DNA
+DNA
+O-P-O stretching DNA"
+802,Uracil-based ring breathing mode
+810,Phosphodiester (Z-marker)
+811,O-P-O stretching RNA
+812,Phosphodiester (Z-marker)
+813,One of the two most distinct peaks for RNA (with1240 cm-1)
+813,"C-C stretching (collagen assignment)
+$C'_5 -O-P-O-C'_3$ phosphodiester bands in RNA
+RNA"
+815,"Proline, hydroxyproline, tyrosine, $v_2 PO_2^{-}$ stretch of nucleic acids"
+817,C-C stretching (collagen assignment)
+820,"Protein band
+Structural protein modes of tumors
+Proteins, including collagen I"
+822,Phosphodiester
+823,"Out-of-plane ring breathing, tyrosine (protein assignment)
+Phosphodiester"
+826,O-P-O stretch DNA
+827,"Proline, hydroxyproline, tyrosine, $v_2 PO_2^{-}$ stretch of nucleic acids"
+828,"Out-of-plane ring breathing, tyrosine/O-P-O stretch DNA
+Phosphodiester
+O-P-O stretching DNA/RNA
+Ring breathing tyrosine"
+830,"Proline, hydroxyproline, tyrosine, $v_2 PO_2^{-}$ stretch of nucleic acids
+C-H out of plane bending in benzoid ring
+Tyrosine (Fermi resonance of ring fundamental and overtone)"
+831,"Asymmetric O-P-O stretching, tyrosine"
+838,Deformative vibrations od amine groups
+840,"a-Anomers
+Glucose-saccharide band (overlaps with acyl band)
+Saccharide (a)"
+842,Glucose
+847,"Monosaccharides (a-glucose), (C-O-C) skeletal mode
+Disaccharide (maltose), (C-O-C) skeletal mode"
+850,"Most probably due to single bond stretching vibrations for the amino acids and valine and polysaccharides
+Tyrosine (Fermi resonance of ring fundamental and overtone)"
+852,"Proline, hydroxyproline, tyrosine
+Tyrosine ring breathing
+Glycogen"
+853,"Ring breathing mode of tyrosine & C-C stretch of proline ring
+Glycogen"
+854,"(C-O-C) skeletal mode of a-anomers(polysaccharides, pectin)
+Ring breathing tyrosine (proteins)"
+855,"Proline, tyrosine
+v(C-C), proline +δ(CCH) ring breathing, tyrosine (protein assignment and polysaccharide)
+δ(CCH) phevylalanine, olefinic (protein assignment and polysaccharide)"
+855,"Proline, hydroxyproline, tyrosine
+C-C stretching, proline (collagen assignment)"
+856,"Amino acid side chain vibrations of proline & hydroxyproline, as well as a
+(C-C) vibration of the collagen backbone
+Hydroxyproline (collagen type I)"
+859,"Tyrosine, collagen"
+860,"Phosphate group
+Phosphatidic acid"
+867,"Ribose vibration, one of the distinct RNA modes(with 915 and 974 cm-1)"
+868,"C-C stretching, hypro (collagen assignment)
+Monosaccharides (b-fructose), (C-O-C) skeletal mode
+Disaccharide (sucrose), (C-O-C) skeletal mode
+Polysaccharides, amylose
+Polysaccharides, amylopectin"
+869,Proline
+870,"Most probably due to single bond stretching vibrations for the amino acids proline and valine and polysaccharides
+C-C stretching, hypro (collagen assignment)"
+873,"Hydroxyproline, tryptophan"
+874,"C-C stretching, hypro (collagen assignment)"
+875,"Antisymmetric stretch vibration of choline group $N^{+} (CH_3)_3$, characteristic for phospholipids
+Phosphatidylcholine, sphingomyelin"
+876,"v(C-C), hydroxyproline (protein assignment)
+C-C stretching, hydroxyproline (collagen assignment)"
+877,"$C-C-N^{+}$ symmetric stretching (lipids)
+C-O-C ring (carbohydrate)"
+879,"Hydroxyproline, tryptophan"
+880,"Tryptophan, δ(ring)"
+883,ρ(CH2) (protein assignment)
+884,"Proteins, including collagen I"
+885,"Disaccharide (cellobiose), (C-O-C) skeletal mode"
+889,Methylene rocking
+890,"Protein bands
+Structural protein modes of tumors
+b-anomers"
+891,Saccharide band (overlaps with acyl band)
+893,"Backbone, C-C skeletal"
+896,"Phosphodiester, Deoxyribose"
+898,"Monosaccharides (b-glucose), (C-O-C) skeletal mode
+Disaccharide (maltose), (C-O-C) skeletal mode"
+907,Formalin contamination peak on fixed tissues
+913,Glucose
+915,"Ribose vibration, one of the distinct RNA modes(with 915 and 974 $cm^{-1}$)"
+918,"Proline, hydroxyproline
+Glycogen and lactic acid"
+920,"C-C stretch of proline ring/glucose/lactic acid
+C-C, praline ring (collagen assignment)"
+931,Carbohydrates peak for solutions and solids
+932,"Skeletal C-C, a-helix"
+933,"Proline, hydroxyproline, n(C-C) skeletal of collagen backbone"
+934,C-C backbone (collagen assignment)
+935,"C-C stretching mode of proline & valine & protein backbone (a-helixconformation)
+glycogen (protein assignment)"
+937,"Proline (collagen type I)
+Amino acid side chain vibrations of proline and hydroxyproline, as well as a (C-C) vibration of the collagen backbone
+C-C backbone (collagen assignment)
+Glycogen
+v(C-C) residues (a-helix)
+C-C stretching, a-helix (proteins)
+C-O-C glycodides (carbohydrates)"
+937,"Proline, hydroxyproline, v(C-C) skeletal of collagen backbone"
+938,C-C stretch backbone
+941,"Skeletal modes (polysaccharides, amylose)
+Skeletal modes (polysaccharides, amylopectin)"
+950,Most probably due to single bond stretching vibrations for the amino acids proline and valine and polysaccharides
+951,ns(CH3) of proteins (a-helix)
+956,Crotenoids (absent in normal tissues)
+957,"Hydroxyapatite, carotenoid, cholesterol"
+960,"Symmetric stretching vibration of n1PO342
+(phosphate of HA)
+Calcium-phosphate stretch band (high quantities of cholesterol)
+Quinoid ring in-plane deformation"
+962,Phoisphate symmetric stretching vibration of calcium hydroxyapatite
+963,"Unassigned in protein assignments
+CH20 ,6 out-of-plane bending"
+966,Hydroxyapatite
+968,Lipids
+970,Phosphate monoester groups of phosphorylated proteins & cellular nucleic acids
+971,n(C-C) wagging
+972,C-C backbone (collagen assignment)
+973,"r(CH3), δ(CCH) olefinic (protein assignment)"
+974,"Ribose vibration, one of the distinct RNA modes(with 874 and 915 $cm^{-1}$)"
+980,"C-C stretching b-sheet (proteins)
+ =CH bending (lipids)"
+996,"C-O ribose, C-C"
+999,"n45(CC), observed in the spectra of single humanRBC"
+1000,"Phenylalanine
+Bound & free NADH"
+1701,Symmetric ring breathing mode of phenylalanine
+1002,"C-C aromatic ring stretching
+Phenylalanine"
+1002,"Phenylalanine
+Phenylalanine (collagen assignment)"
+1003,"Phenylalanine, C-C skeletal"
+1004,"Phenylalanine (of collagen)
+ns(C-C), symmetric ring breathing, phenylalanine(protein assignment)
+Phenylalanine (collagen assignment)
+Phenyl breathing mode
+n(C-C) phenylalanine"
+1005,"Phenylalanine (proteins)
+Proteins
+Symmetric ring breathing of phenylalanine"
+1006,"Carotenoids (absent in normal tissues)
+Phenylalanine, δ(ring)"
+1008,"Phenylalanine
+n(CO), n(CC), δ(OCH), ring (polysaccharides, pectin)"
+1016,Carbohydrates peak for solids
+1018,Stretching C-O ribose
+1022,Glycogen
+1023,Glycogen
+1025,"Carbohydrates peak for solutions
+Glycogen"
+1029,O-CH3 stretching of methoxy groups
+1030,"Phenylalanine of collagen
+n(CC) skeletal, keratin (protein assignment)"
+1031,"δ(C-H), phenylalanine (protein assignment)
+C-H in-plane bending mode of phenylalanine
+Carbohydrate residues of collagen
+Phenylalanine, C-N stretching of proteins
+C-H in-plane bending mode of phenylalanine"
+1032,"CH2CH3 bending modes of collagen & phospholipids
+C-C skeletal stretch (one of C-C ring vibration to be expected in aromatic structure of xylene)
+Phenylalanine of collagen
+Proline (collagen assignment)"
+1033,"Differences in collagen content
+Phenylalanine mode
+n(CO), n(CC), n(CCO) (polysaccharides, pectin)
+C-H in-plane phenylalanine (proteins)"
+1034,Phenylalanine of collagen
+1035,Collagen
+1040,Formalin peaks appearing in the fixed normal and tumor tissues
+1043,"Carbohydrates peak for solutions and solids
+Proline (collagen assignment)"
+1044,n3PO342(symmetric stretching vibration of n3PO342 of HA)
+1048,Glycogen
+1053,"C-O stretching, C-N stretching (protein)"
+1055,"In the solid, the most significant difference between the two nucleic acids is the ratio intensity of the bands in this area"
+1057,Lipids
+1061,C-C in-plane bending (one of C-C ring vibration to be expected in aromatic structure of xylene)
+1063,C-C skeletal stretch random conformation
+1064,"Skeletal C-C stretch of lipids
+Acyl chains
+n(C-C) trans"
+1065,"Palmitic acid
+Fatty acid"
+1066,Proline (collagen assignment)
+1070,Triglycerides (fatty acids)
+1071,Glucose
+1073,"Carbonate symmetric stretching vibration of calcium carbonate apatite
+Triglycerides (fatty acids)"
+1076,"C-C (lipid in normal tissues)
+Symmetric stretching vibration of n3PO342
+(phosphate of HA)"
+1078,"n(C-C) or n(C-O), phospholipids (lipid assignment)
+Pronounced symmetric phosphate stretch
+Phospholipids
+C-C or C-O stretching mode of phospholipids
+Carbohydrate peak for solids
+C-C or C-O stretch (lipid), C-C or PO2 stretch(nucleic acid)
+n(CC) skeletal
+n(CC) vitors (PO22 ) nucleic acid"
+1080,"Typical phospholipids
+Phosphate vibrations (phosphodiester groups in nucleic acids)
+Collagen"
+1081,"n1CO232, n3PO342, n(C-C) skeletal of acyl backbone in lipid (gauche conformation)"
+1082,"Carbohydrate residues of collagen
+Carbohydrates peak for solutions
+Nucleic acids"
+1083,"C-N stretching mode of proteins (and lipid mode of lesser degree)
+C-N stretching mode of proteins (and lipid mode to a lesser degree)"
+1084,Phosphodiester groups in nucleic acids
+1086,n(C-C) gauche
+1087,"n1CO232, n3PO342, n(C-C) skeletal of acyl backbone in lipid (gauche conformation)"
+1090,Symmetric phosphate stretching vibrations
+1092,Phosphodioxy
+1093,Symmetric PO22 stretching vibration of the DNA backbone–phosphate backbone vibration as a marker mode for the DNA concentration C-N of proteins
+1094,DNA
+1095,"Lipid
+n(C-N)
+Phosphodioxy group (PO22 in nucleic acids)"
+1096,Phosphodioxy (PO22 ) groups
+1099,n(C-N)
+1100,C-C vibration mode of the gauche-bonded chain
+1104,Phenylalanine (proteins)
+1105,Carbohydrates peak for solutions
+1111,Benzoid ring deformation
+1112,Saccharide band (overlaps with acyl band)
+1115,"CH2,6 in-plane bend and C1-Ca-Ha bend"
+1117,Glucose
+1118,C-C stretch (breast lipid)
+1120,"The strong C-O band of ribose (serves as a marker band for RNA in solutions)
+Carotene"
+1122,"n22(porphyrin half ring), observed in the spectra of single human RBC
+ns(CC) skeletal
+nsym(C-O-C) (polysaccharides, cellulose)
+n(C-C) trans"
+1123,"(C-N), proteins (protein assignment)
+C-C stretching mode of lipids & protein, C-N stretch
+Glucose"
+1124,"n(C-C) skeletal of acyl backbone in lipid
+(transconformation)"
+1126,"Paraffin
+n(C-C) skeletal of acyl backbone in lipid
+(transconformation)
+C-N stretching vibration (protein vibration)
+n(C-O) þn(C-C), disaccharides, sucrose"
+1127,n(C-N)
+1128,"C-N stretching (proteins)
+C-O stretching (carbohydrates)"
+1128,"n(C-C) skeletal of acyl backbone in lipid
+(transconformation)"
+1130,"C-C skeletal stretch transconformation
+Phospholipid structural changes (trans versus gauche isomerism)
+Acyl chains"
+1131,"Palmitic acid
+Fatty acid"
+1149,Carbohydrates peak for solids
+1150,"Glycogen
+Carotenoid"
+1152,"n(C-N), proteins (protein assignment)
+n(C-C), carotenoid
+Carotenoid peaks due to C-C & conjugated C=C band stretch"
+1153,Carbohydrates peak for solutions
+1155,"C-C (&C-N) stretching of proteins (also carotenoids)
+Glycogen
+n(C-C) Diagnostic for the presence of a carotenoid structure, most likely a cellular pigment"
+1156,"C-C, C-N stretching (protein)"
+1156,Carotenoids (absent in normal tissue)
+1157,"In-plane vibrations of the conjugated =C-C=
+b-carotene accumulation (C=C stretch mode)"
+1158,C-C/C-N stretching (proteins)
+1161,Deformative vibrations of quinoid ring
+1163,"Tyrosine (collagen type I)
+Tyrosine"
+1167,N55Quinoid ring55N stretching and C-H in plane bending
+1168,"Lipids
+n(C=C) δ(COH) (lipid assignment)
+n(C-C), carotenoid"
+1169,"Tyrosine (collagen type I)
+Tyrosine"
+1170,C-H in-plane bending mode of tyrosine
+1171,"Tyrosine (collagen type I)
+Tyrosine
+(CH) phenylalanine, tyrosine"
+1172,"δ(C-H), tyrosine (protein assignment)"
+1173,"Cytosine, guanine
+Tyrosine (collagen type I)"
+1174,"Tyrosine, phenylalanine, C-H bend (protein)"
+1175,"Cytosine, guanine"
+1176,C-H bending tyrosine (proteins)
+1177,"Cytosine, guanine"
+1180,"Cytosine, guanine"
+1184,"Cytosine, guanine, adenine"
+1200,"Nucleic acids and phosphates
+Aromatic C-O and C-N"
+1203,C-C6H5 stretch mode (one of C-C ring vibration to be expected in aromatic structure of xylene)
+1204,"Amide III & CH2 wagging vibrations from glycine backbone & proline side chains
+Collagen
+Tyrosine, phenylalanine (IgG)"
+1205,Differences in collagen content
+1206,"Hydroxyproline, tyrosine (collagen assignment)
+Hydroxyproline, tyrosine"
+1208,"n(C-C6H5), tryptophan, phenylalanine (protein assignment)
+Tryptophan
+A,T (ring breathing modes of the DNA/RNA bases)-amide III (protein)"
+1209,Tryptophan & phenylalanine n(C-C6H5) mode
+1210,"C-C6H5 stretching mode in tyrosine and phenylalanine
+n18 (d: CmH), observed in the spectra of single human RBC"
+1216,Stretching of C-N
+1220,C=N=C stretching
+1221,Amide III (b-sheet)
+1223,"n(PO22 ), nucleic acids
+Cellular nucleic acids
+A concerted ring mode
+Proteins, including collagen I"
+1224,Amide III (bsheet structure)
+1230,Antisymmetric phosphate stretching vibration
+1234,A concerted ring mode
+1235,Amide III
+1237,Amide III & CH2 wagging vibrations from glycine backbone & proline side chains
+1239,Amide III
+1240,"One of the two most distinct peaks for RNA (with 813 $cm^{-1}$)
+Differences in collagen content
+Asymmetric phosphate [PO22 (asym.)] stretching modes
+Collagen"
+1241,"Asymmetric phosphate [PO22 (asym.)] stretching modes (phosphate stretching modes originate from the phosphodiester groups of nucleic acids and suggest an increase in the nucleic acids in the malignant tissues). (Generally, the PO22 groups of phospholipids do not contribute to these bands)"
+1242,Amide III (bsheet and random coils)
+1243,"Amide III
+Asymmetric phosphate [PO22 (asym.)] stretching modes (phosphate stretching modes originate from the phosphodiester groups of nucleic acids and suggest an increase the in nucleic acids in the malignant tissues). (Generally, the PO22 groups of phospholipids do not contribute to these bands)
+C-O4 aromatic stretch
+Amide III of collagen (CH2 wagging, C-N stretching) and pyrimidine bases
+(C, T)"
+1245,Amide III
+1246,Amide III (of collagen)
+1247,Amide III (collagen assignment)
+1248,"Guanine, cytosine (NH2)"
+1250,Amide III
+1251,"Guanine, cytosine (NH2)"
+1252,C-O4 aromatic stretch
+1254,"Formalin contamination on fixed tissues
+C-N in plane stretching"
+1255,Lipids
+1257,"A, T (ring breathing modes of the DNA/RNA bases)-amide III (protein)"
+1258,"Amide III, adenine, cytosine"
+1259,"Guanine, cytosine (NH2)
+Amide III"
+1260,"Amide III (protein band)
+Protein band
+Second amide
+Amide III (unordered)
+Structural protein modes of tumors
+Amide III vibration mode of structural proteins
+CH2 in-plane deformation (lipids)"
+1263,"T, A (ring breathing modes of the DNA/RNA bases)=C-H bend (protein)"
+1264,Triglycerides (fatty acids)
+1265,"Amide III of collagen
+Amide III (collagen assignment)
+Amide III
+n(CN), δ(NH) amide III, a-helix, collagen(protein assignment)"
+1266,"Amide III (of proteins in the a-helix conformation)
+n(CN), δ(NH) amide III, a-helix, collagen, tryptophan (protein assignment)
+δ(=C-H) cis
+Amide III (a-helix)"
+1267,C-H (lipid in normal tissue)
+1268,δ(=C-H) (phospholipids)
+1269,Amide III (collagen assignment)
+1270,"Typical phospholipids
+Amide III band in proteins
+Has traditionally been attributed to Amide III, a
+C-N stretch from alpha helix proteins
+C=C groups in unsaturated fatty acids"
+1273,CHa0 rocking
+1275,Amide III
+1278,"Proteins, including collagen I"
+1279,Amide III (a-helix)
+1280,"Amide III & CH2 wagging vibrations from glycine backbone & proline side chains
+Collagen
+Nucleic acids and phosphates"
+1283,Differences in collagen content
+1287,Cytosine
+1288,Phosphodiester groups in nucleic acids
+1290,Cytosine
+1291,Cytosine
+1294,Methylene twisting
+1296,CH2 deformation
+1298,"Palmitic acid
+Acyl chains
+Fatty acids"
+1299,CH2 deformation (lipid)
+1300,"-(CH2)n- in-plane twist vibration (lipid band)
+Fatty acids
+δ(CH2)-lipids, fatty acids
+CH2 twisting modes
+δ(CH), t(CH2) (a-helix)
+CH2 twisting (lipids)
+CH2 twisting and wagging (lipids)"
+1301,"Assign from Parker (lipid in normal tissue)
+Triglycerides (fatty acids)
+t(CH2), lipids
+C-H vibration (lipids)
+Lipids
+CH2 twisting (lipids)"
+1302,"δ(CH2) twisting, wagging, collagen (protein assignment)
+δ(CH2) twisting, wagging, phospholipids (lipid assignment)
+CH3/CH2 twisting or bending mode of lipid/ collagen
+Amide III (protein)
+Methylene bending mode (a combination of proteins & phospholipids)"
+1303,"CH3, CH2 twisting (collagen assignment)"
+1304,"CH2 deformation (lipid), adenine, cytosine"
+1307,"CH3/CH2 twisting or bending mode of lipid/ collagen
+CH3/CH2 twisting, wagging &/or bending mode of collagens & lipids"
+1308,C-N asymmetric stretching in asymmetric aromatic amines
+1309,"CH3/CH2 twisting or bending mode of lipid/ collagen
+CH3/CH2 twisting, wagging &/or bending mode of collagens & lipids"
+1313,CH3CH2 twisting mode of collagen/lipid
+1314,CH3CH2 twisting mode of collagen
+1315,"Guanine (B,Z-marker)"
+1317,"Guanine (B,Z-marker)"
+1318,"G (ring breathing modes of the DNA/RNA bases)-C-H deformation (protein)
+Amide III (a-helix)"
+1319,"Guanine (B,Z-marker)
+CH3CH2 twisting (collagen assignment)"
+1320,"G (DNA/RNA)
+CH deformation (proteins)"
+1321,Amide III (a-helix)
+1322,"CH3CH2 twisting, collagen
+CH3CH2 twisting and wagging in collagen
+CH3CH2 deforming modes of collagen and nucleic acids"
+1323,"Guanine (B,Z marker)"
+1324,CH3CH2 wagging mode present in collagen & purine bases of DNA
+1330,"Typical phospholipids
+Region associated with DNA & phospholipids
+Collagen
+Nucleic acids and phosphates"
+1332,-C stretch of Phenyl (1) and C3-C3 stretch and
+1333,Guanine
+1335,"CH3CH2 wagging, collagen (protein assignment)
+CH3CH2 wagging, nucleic acid
+CH3CH2 wagging mode of collagen & polynucleotide chain (DNA purine bases)
+CH3CH2 twisting and wagging in collagen
+Cellular nucleic acids
+CH3CH2 deforming modes of collagen and nucleic acids
+An unassigned mode"
+1335,Guanine
+1336,"Polynucleotide chain (DNA purine bases)
+δ(CH3) δ(CH2) twisting, collagen (protein assignment)"
+1337,"Amide III & CH2 wagging vibrations from glycine backbone & proline side chain
+A, G (ring breathing modes in the DNA bases)-
+C-H deformation (protein)
+Tryptophan
+CH2/CH3 wagging, twisting &/or bending mode of collagens & lipids
+CH2/CH3 wagging & twisting mode in collagen, nucleic acid & tryptophan"
+1339,"C-C stretch of phenyl (1) and C3-C3 stretch and
+C5-O5 bend stretch CHa in-plane bend"
+1340,"Nucleic acid mode
+Differences in collagen content
+Nucleic acid modes indicating the nucleic acid content in tissues"
+1342,"G (DNA/RNA)
+CH deformation (proteins and carbohydrates)"
+1343,"CH3, CH2 wagging (collagen assignment)
+Glucose"
+1344,"δ(CH), residual vibrations"
+1347,An unassigned mode
+1350,Carbon particle
+1355,"Guanine (N7, B,Z-marker)"
+1359,Tryptophan
+1360,Tryptophan
+1361,"Guanine (N7, B,Z-marker)"
+1365,Tryptophan
+1367,ns (CH3) (phosphplipids)
+1369,"Guanine, TRP (protein), porphyrins, lipids"
+1370,The most pronounced saccharide band
+1373,"T, A, G (ring breathing modes of the DNA/RNA bases)"
+1378,Paraffin
+1379,dCH3 symmetric (lipid assignment)
+1386,CH3 band
+1391,CH rocking
+1392,"C-N stretching, in quinoid ring-benzoid ring-quinoid ring"
+1393,CH rocking
+1398,"C=O symmetric stretch
+CH2 deformation"
+1400,NH in-plane deformation
+1401,Bending modes of methyl groups (one of vibrational modes of collagen)
+1406,ns COO2 (IgG)
+1409,ns COO2 (IgG)
+1417,C=C stretching in quinoid ring
+1421,"Deoxyribose, (B,Z-marker)
+A, G (ring breathing modes of the DNA/RNA bases)"
+1422,"Deoxyribose, (B,Z-marker)"
+1423,NH in-plane deformation
+1424,"Deoxyribose, (B,Z-marker)"
+1436,CH2 scissoring
+1437,"CH2 (lipids in normal tissue)
+CH2 deformation (lipid)
+Acyl chains"
+1439,"CH2 bending mode in normal tissue
+CH3, CH2 deformation (collagen assignment)
+CH2 scissoring
+CH2 deformation in normal breast tissue
+CH2 deformation
+CH2
+δ(CH2) (lipids)"
+1440,"CH2 and CH3 deformation vibrations
+CH deformation
+Cholesterol, fatty acid band
+δ(CH2) (lipids)
+CH2 bending (lipids)"
+1441,"CH2 scissoring & CH3 bending in lipids
+Cholesterol & its esters
+C-H bending mode of accumulated lipids in the vecrotic core of the atheromatous plaque"
+1442,"Fatty acids
+CH2 bending mode
+Due to changes in chemical environment of the
+CH2 bending mode
+CH3, CH2 deformation (collagen assignment)
+Triglycerides (fatty acids)"
+1443,"CH2 deformation (lipids and proteins)
+Triglycerides (fatty acids)"
+1444,"Cholesterol band (associated to atherosclerotic spectrum)
+n28 (Ca Cm), observed in the spectra of single human RBC
+δ(CH2), lipids, fatty acids"
+1445,"δ(CH2), δ(CH3), collagen (protein assignment)
+δ(CH2), δ(CH3), scissoring, phospholipids (lipid assignment)
+CH2CH3 bending modes of collagen & phospholipids
+CH2 scissoring
+CH2 bending mode of proteins & lipids-being of diagnostic significance
+CH2 bending and scissoring modes of collagen and phospholipids
+Methylene bending mode (a combination of proteins & phospholipids)
+CH2 bending modes
+CH2 deformation"
+1446,"CH2 bending mode of proteins & lipids
+CH2 deformation"
+1447,"CH2 bending mode of proteins & lipids
+CH2 deformation (protein vibration)-A marker for protein concentration
+das(CH3) δ(CH2) of proteins"
+1448,"CH2CH3 deformation
+CH2 deformation
+CH2
+Collagen"
+1449,"C-H vibration (proteins)
+C-H vibration (lipids)
+Lipids"
+1450,"CH2 bending
+CH2 bending mode in malignant tissues
+Bending modes of methyl groups (one of vibrational modes of collagen)
+Methylene deformation in biomolecules
+CH2 deformation in IDC breast tissue
+C-H deformation bands (CH functional groups in lipids, amino acids side chains of the proteins and carbohydrates)
+δ(C-H)
+CH2 bending (proteins)"
+1451,"CH2CH3 deformation
+CH2CH3 deformation (collagen assignment)"
+1453,"Protein bands
+Umbrella mode of methoxyl (4)
+C-H bending mode of structural proteins"
+1453,Structural protein modes of tumors
+1454,"CH2 stretching/CH3 assymetric deformation
+Overlapping asymmetric CH3 bending & CH2
+scissoring (is associated with elastin, collagen, & phospholipids)
+Collagen & phospholipids"
+1455,"Deoxyribose
+δ(CH2)"
+1457,Deoxyribose
+1458,"Nucleic acid modes
+Nucleic acid modes indicating the nucleic acid content in tissues"
+1459,"Deoxyribose
+δ(CH2)"
+1460,"CH2/CH3 deformation of lipids & collagen
+CH2 wagging, CH2/CH3 deformation
+Deoxyribose"
+1462,"dCH2, Disaccharides, sucrose"
+1463,"Fermi interaction δ(CH2), & g(CH2)"
+1465,Lipids
+1470,C=N stretching
+1472,Paraffin
+1485,"G, A (ring breathing modes in the DNA bases)
+Nucleotide acid purine bases (guanine and adenine)"
+1487,Guanine (N7)
+1488,Collagen
+1490,"DNA
+Formalin peak appearing in the fixed normal and tumor tissues"
+1491,"C-N stretching vibration coupled with the in-plane
+C-H bending in amino radical cations"
+1492,Formalin peak appearing in the fixed normal and tumor tissues
+1499,C=C stretching in benzenoid ring
+1506,N55H bending
+1508,Cytosine
+1510,A (ring breathing modes in the DNA bases)
+1513,Cytosine
+1514,"n(C=C) diagnostic for the presence of a carotenoid structure, most likely a cellular pigment
+n(C=C) carotenoid"
+1515,Cytosine
+1517,b-carotene accumulation (C-C stretch mode)
+1518,"n(C=C), porphyrin
+Carotenoid peaks due to C-C & conjugated C=C band stretch"
+1520,Carotene
+1524,Carotenoid (absent in normal tissues)
+1525,In-plane vibrations of the conjugated -C=C-
+1528,Carotenoid (absent in normal tissues)
+1543,"n11 (Cb Cb), observed in the spectra of single human RBC"
+1544,Amide II
+1545,C6-H deformation mode
+1546,Bound & free NADH
+1548,Tryptophan
+1552,"Tryptophan
+n(C=C), tryptophan (protein assignment)
+n(C=C), porphyrin"
+1554,Amide II
+1558,"Tryptophan
+n(CN) and δ(NH) amide II (protein assignment)
+n(C=C) porphyrin
+Tyrosine, amide II, COO2"
+1560,Tryptophan
+1573,"Guanine, adenine, TRP (protein)"
+1575,"Ring breathing modes in the DNA basesG, A (ring breathing modes of the DNA/RNA bases)"
+1576,"Nucleic acid mode
+Nucleic acid modes indicating the nucleic acid content in tissues
+Guanine (N3)"
+1577,"Bound & free NADH
+IgG"
+1578,"Guanine (N3)
+Guanine, adenine"
+1579,Pyrimidine ring (nucleic acids) & heme protein
+1580,C-C stretching
+1582,"δ(C=C), phenylalanine
+Phenylalanine"
+1583,C=C bending mode of phenylalanine
+1585,"C=C olefinic stretch
+C=C olefinic stretch (protein assignment)"
+1586,"Phenylalanine, hydroxyproline"
+1590,Carbon particles
+1593,C=N and C=C stretching in quinoid ring
+1602,"Phenylalanine
+δ(C=C), phenylalanine (protein assignment)"
+1603,"C=C in-plane bending mode of phenylalanine & tyrosine
+Ring C-C stretch of phenyl (1)"
+1605,"Cytosine (NH2)
+Ring C-C stretch of phenyl (1)
+Phenylalanine, tyrosine, C=C (protein)"
+1607,"Tyrosine, phenylalanine ring vibration
+C=C phenylalanine, tyrosine"
+1608,Cytosine (NH2)
+1610,Cytosine (NH2)
+1614,Tyrosine
+1615,"Tyrosine, tryptophan, C=C (protein)"
+1616,C=C stretching mode of tyrosine & tryptophan
+1617,"n(CaCb), observed in the spectra of single human RBC
+C=C phenylalanine, tyrosine"
+1618,"n(C=C), tryptophan (protein assignment)
+n(C=C), porphyrin
+Tryptophan
+Bound & free NADH"
+1620,"n(C=C), porphyrin"
+1622,"Tryptophan
+Tryptophan &/or b-sheet
+Tryptophan (IgG)"
+1628,"Ca=Ca stretch
+Amide C=O stretching absorption for the b-form polypeptide films"
+1634,Amide I
+1635,Differences in collagen content
+1637,"Amide I band
+Amide I band (both a-helix and b-structure)"
+1638,"Intermolecular bending mode of water
+Very weak and broad n2 mode of water"
+1645,Amide I (a-helix)
+1647,Random coils
+1650,"(C=C) Amide I
+Protein amide I absorption
+Amide I"
+1652,Lipid (C=C stretch)
+1653,Carbonyl stretch (C=O)
+1654,"Due to a combination of C=C stretch & the amide I bands þ amide I
+Amide I (collagen assignment)
+C=C stretch
+Amide I (C=O stretching mode of proteins, a-helix conformation)/C=C lipid stretch
+Collagen"
+1655,"Amide I (of collagen)
+C=C (of lipids in normal tissues; not that of amide I)
+n(C=O) amide I, a-helix, collagen
+Amide I (C=O stretching mode of proteins, a-helix conformation)/C=C lipid stretch
+In normal tissues: C=C of lipids (& not amide I)
+C=O stretching of collagen & elastin (protein assignment)
+Amide I of proteins
+Amide I (collagen assignment)
+Amide I (typically associated with collagen)
+Amide I (a-helix)"
+1656,"C=C (lipids)
+Amide I (proteins)"
+1656,n(C=C)cis (phospholipids)
+1657,"Fatty acids
+Amide I (collagen assignment)
+Triglycerides (fatty acids)"
+1658,Amide I (a-helix)
+1659,"Amide I vibration (collagen like proteins)
+Amide C=O stretching absorption for the a-folded polypeptide films
+Cholesterol band (associated to atherosclerotic spectrum)"
+1660,"Amide I band
+Amide I
+Amide I vibration mode of structural proteins
+n(C=C) cis, lipids, fatty acids
+C=C groups in unsaturated fatty acids
+Ceramide backbone
+Amide I (protein)
+Lipids"
+1662,"Nucleic acid modes
+Nucleic acid modes indicating the nucleic acid content in tissues"
+1663,"DNA
+Proteins, including collagen I"
+1664,Amide I
+1665,"Amide I (of collagen)
+Amide I
+Amide I (collagen assignment)
+Amide I (disordered structure-solvated)
+ns(C=O)"
+1666,Collagen
+1667,"Protein band
+C=C stretching band
+a-helical structure of amide I
+Structural protein modes of tumors
+Carbonyl stretch (C=O)"
+1669,"Carbonyl stretch (C=O)
+Cholesterol ester"
+1670,"Amide I
+C=C stretching vibrations
+Cholesterol & its esters
+C=C stretching vibration mode of steroid ring
+Amide I (anti-parallel b-sheet)
+n(C=C) trans, lipids, fatty acids"
+1672,"C=C stretch
+Amide I band (C=O stretch coupled to a N-H bending)
+Ceramide"
+1673,Amide I
+1674,"C=C stretch vibration
+Cholesterol"
+1676,Amide I (b-sheet)
+1678,Bound & free NADH
+1682,One of absorption positions for the C=O stretching vibrations of cortisone
+1685,Amide I (disordered structure; non hydrogen bonded)
+1697,Amide I (turns and bands)
+1710,One of absorption positions for the C=O stretching vibrations of cortisone
+1729,Ester group
+1732,One of absorption positions for the C=O stretching vibrations of cortisone
+1734,"Esters, C=O stretching (lipids)"
+1736,C=O ester (lipids)
+1738,Lipids
+1739,Ester group
+1740,Ester group
+1744,"Carbonyl feature of lipid spectra
+Ester group"
+1745,"Phospholipids
+n(C=O), phospholipids (lipid assignment)
+n(C=O), phospholipids
+Triglycerides (fatty acids)
+n(C=O) (polysaccharides, pectin)"
+1746,C=O stretch (lipid)
+1747,"C=O, lipids"
+1750,"C=O (lipid in normal tissues)
+n(C=C) lipids, fatty acids"
+1754,C=O (lipid)
+1756,One of absorption positions for the C=O stretching vibrations of cortisone
+2095,"C-N stretch (one of three thiocyanate peaks, with 445 & 735 $cm^{-1}$)"
+2225,C;N
+2343,Asymmetric stretching band of CO22 hydrates
+2850,"ns CH2, lipids, fatty acids
+CH2 symmetric"
+2883,CH2 asymmetric stretch of lipids and proteins
+2885,"ns CH3, lipids, fatty acids"
+2886,Fermi resonance CH2 stretch
+2900,CH stretch of lipids and proteins
+2893,CH3 symmetric stretch
+2900,CH stretch
+2915,"CH band of lipids and proteins (the lipid band has a tendency towards higher levels of energy, such as 2855 $cm^{-1}$, while the protein band’s tendency is toward lower energy levels like 2920 $cm^{-1}$)"
+2928,"Symmetric CH3 stretch
+Due primarily to protein"
+2933,CH2 asymmetric stretch
+2935,Chain end CH3 symmetric band
+2940,"C-H vibrations in lipids & proteins
+nas CH2, lipids, fatty acids"
+2956,CH3 asymmetric stretch
+2960,Out-of-plane chain end antisymmetric CH3 stretch band
+2970,"nas CH3, lipids, fatty acids
+Cholecterol and cholesterol ester"
+2973,Asymmetric stretching of methoxy (4)
+3000,CH stretching
+3008,"nas(=C-H), lipids, fatty acids"
+3010,Unsaturated =CH stretch
+3015,n=CH of lipids
+3232,O–H & N-H stretching vibrations (hydrogen bonding network may vary in the malignant tissues)
+3300,Attributed to OH stretch
+3329,N-H vibration of proteins
+3550,O-H stretching vibration

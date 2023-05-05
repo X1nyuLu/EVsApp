@@ -25,6 +25,16 @@ def scale(x):
     x = (x - x.min()) / (x.max() - x.min())
     return x
 
+def get_band_attr(bands):
+    attrs = []
+    attribution = pd.read_csv('cleaned_attribution.csv')
+    
+    for i in range(len(bands)):
+        nearest_id = np.argmin(np.abs(attribution['peak'] - bands[i]))
+        tmp_attr = attribution.loc[nearest_id, 'assignment']
+        attrs.append(tmp_attr.split('\n'))
+    bands = [f'{band:.2f}' for band in bands]
+    return pd.DataFrame({'Peaks':bands, 'Assignments':attrs})
 
 def prediction():
     st.subheader('Prediction')
@@ -49,10 +59,7 @@ def prediction():
     st.bar_chart(data=res, x='label')
     pred_label = st.session_state['class_indict'][f'{int(pred)}']
     st.markdown(f'the spectrum you input is ***{pred_label}*** with confidence ***{prob[0]*100:.2f}%***')
-    return pred_label
 
-
-def analysis(pred_label):
 
     st.subheader('Attribution Analysis')
 
@@ -95,18 +102,15 @@ def analysis(pred_label):
     )
     st.altair_chart(chart, use_container_width=True)
 
-    from config import contribution
-
-    target_band = wave[np.argmax(attr)]
-    st.markdown('The most important Raman band is around %.2f $cm^{-1}$' %(target_band))
+    target_bands = wave[np.argsort(attr)[-5:]]
+    st.markdown('**The most important 5** Raman bands and assignments are shown below：')
     
-    bands = contribution[f'{pred_label}']
-    target_contribution = sorted(bands.items(), key=lambda x: abs(x[0]-target_band))[0]
-    st.markdown('This band is mainly contributed by ***%s***' %(target_contribution[1]))
+    target_attribution = get_band_attr(target_bands)
+
+    st.write(target_attribution)
     
 def test():
-    pred_label = prediction()
-    analysis(pred_label)
+    prediction()
     st.markdown(
         """
         ---  
